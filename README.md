@@ -1,4 +1,4 @@
-📚 Homework Assignments
+📚 **Homework Assignments**
 
 ### Description
 This repository contains solutions to JavaScript homework assignments related to DOM manipulation, event handling, and working with external libraries.
