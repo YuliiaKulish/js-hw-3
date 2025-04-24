@@ -22,6 +22,6 @@ if (currentTime) {
       return player.setCurrentTime(validTime);
     })
     .catch(error => {
-      console.error('Помилка отримання тривалості відео:', error);
+      console.error('Error getting video duration:', error);
     });
 }
